@@ -1,0 +1,24 @@
+body{
+	background: url(фото/t.jpg);
+	text-align:justify;
+	text-indent:20px;
+}
+.ramka{
+	background:#EEEEFF;
+	border: 1px solid blue;
+	padding: 10px;
+}
+.picture{
+	float:right;
+	text-align:right;
+	margin:10px;
+}
+.zwet{
+	color:#000066;
+}
+.ramka_2{
+	background:#EEEEFF;
+	border: 1px solid blue;
+	padding: 10px;
+	margin-right:50px;
+}
